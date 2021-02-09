@@ -1,0 +1,13 @@
+.navbar{
+  padding 1rem;
+  background-color: #f3969a;
+}
+
+.hero-background-img {
+  background-image: url("https://images.unsplash.com/photo-1519869325930-281384150729?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8Y3VwY2FrZXN8ZW58MHx8MHw%3D&auto=format&fit=crop&w=900&q=60");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:200px;
+  padding-bottom:200px;
+}
